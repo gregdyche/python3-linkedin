@@ -1,0 +1,12 @@
+Working on api to linkedin.
+
+https://pypi.org/project/python3-linkedin/ 
+
+Not sure what this means: Please declare and setup a new application on the LinkedIn Developer Console
+  created an app
+  made a company page
+  verified the responsibility for the app
+  auth tab under the developers page to see the public and private key.
+  follwoed instructions to redirect URL to http://localhost:8080/code 
+  
+  
